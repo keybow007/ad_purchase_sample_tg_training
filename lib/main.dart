@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     print("MyApp#build");
     return MaterialApp(
-      theme: ThemeData.dark(),
+      //theme: ThemeData.dark(),
       home: HomeScreen(),
     );
   }

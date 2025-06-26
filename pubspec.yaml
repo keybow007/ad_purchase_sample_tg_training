@@ -40,6 +40,8 @@ dependencies:
 
   google_mobile_ads: ^5.2.0
 
+  purchases_flutter: ^8.8.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
